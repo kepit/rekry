@@ -1,6 +1,6 @@
 # Tarvittavat tiedot
 
- * MPEG-TS spesifikaatio: https://en.wikipedia.org/wiki/MPEG_transport_stream
+ * MPEG-TS spesifikaatio: [https://en.wikipedia.org/wiki/MPEG_transport_stream](https://en.wikipedia.org/w/index.php?title=MPEG_transport_stream&oldid=1307033632)
  * Elixirin asennusohjeet ja dokumentaatio: https://elixir-lang.org
  * Toteutuksesi toimivuuden voit testata ajamalla "mix test"
 
